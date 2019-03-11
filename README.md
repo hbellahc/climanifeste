@@ -98,6 +98,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
+* test
 
 ## Sources du manifeste
 
